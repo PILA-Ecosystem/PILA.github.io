@@ -14,3 +14,8 @@ min_version = 0.54
 [original]
     author = "HTML5UP"
     homepage = "https://html5up.net"
+    
+baseURL = "https://www.pila.world/"
+languageCode = "en-us"
+title = "PILA Ecosystem"
+theme = "dimension"
